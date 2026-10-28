@@ -141,7 +141,7 @@ Estimated potential: **10–18% profit improvement without increasing revenue**
 
 ## 👤 Author
 
-Yash  
+Shivangi
 Data Analyst | Business Intelligence | Profitability & Risk Analytics  
 
 ---

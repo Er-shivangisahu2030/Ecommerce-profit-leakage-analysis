@@ -1,7 +1,4 @@
 # E-Commerce Profit Leakage Analysis
-
-<img width="2560" height="1298" alt="image" src="https://github.com/user-attachments/assets/86f6f0cf-59fc-4fcd-b659-bad069fb31e9" />
-
 ## About This Project
 
 This project looks at an e-commerce business where sales were strong but profit was not growing at the same pace. I wanted to find out where the money was being lost.
